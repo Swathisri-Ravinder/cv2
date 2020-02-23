@@ -1,0 +1,46 @@
+body{
+  background-color: #f0f5f9;
+}
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p
+{
+  text-align: center;
+}
+  .lady{
+    background-color: gray;
+    height: 10%;
+    display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 10%;
+  }
+  img{
+    height: 20%;
+  }
+
+.facebook {
+  background-color: #9399ff;
+}
+  h1{ color: #0c7b93; font-size: 300%;}
+  form.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+h2{ color: #0c7b93; font-size: 200%;}
